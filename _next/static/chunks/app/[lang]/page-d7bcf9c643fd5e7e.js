@@ -2428,7 +2428,7 @@
                     (0, t.jsxs)("h2", {
                       className: "title h1",
                       children: [
-                        "420,690,000,000 ",
+                        "1,000,000,000 ",
                         (0, t.jsx)("br", {}),
                         " ",
                         (0, t.jsx)("span", {
